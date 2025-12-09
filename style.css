@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: 24px auto; padding: 0 16px; }
+.movie-item { border: 1px solid #ddd; padding: 12px; margin: 8px 0; border-radius: 6px; display:flex; justify-content:space-between; align-items:center; }
+.movie-item p { margin: 0; }
+.movie-actions button { margin-left: 6px; }
+input, button { padding: 8px; margin: 6px 0; }
+#search-input { width: 100%; box-sizing: border-box; }
